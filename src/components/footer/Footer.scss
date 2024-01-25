@@ -1,0 +1,14 @@
+.footer {
+    height: 48px;
+    min-height: 48px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 100%;
+
+    p {
+        color: white;
+    }
+}

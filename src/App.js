@@ -1,9 +1,9 @@
 import './App.scss';
-import { MainPage } from './components/MainPage';
+import {MainPage} from './components/main-page/MainPage'
 
 function App() {
   return (
-        <MainPage/>
+    <MainPage/>
   );
 }
 

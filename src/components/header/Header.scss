@@ -1,0 +1,10 @@
+.header {
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    width: 100vw;
+    background-color: white;
+    justify-content: center;
+    box-shadow: 2px 5px 18px 6px rgba(138,138,94,0.52);
+}
